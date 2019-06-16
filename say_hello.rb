@@ -2,7 +2,7 @@
 
 def say_hello(name)
   
-  if (name == "")
+  if (name != "")
     
     print "Hello Ruby Programmer!"
     
@@ -15,4 +15,5 @@ def say_hello(name)
 end
 
 say_hello()
+
 
