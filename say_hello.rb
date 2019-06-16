@@ -1,11 +1,11 @@
 # Build your say_hello method here
 
 def say_hello(name)
-  if (name != ""){
+  if (name != "")
     print "Hello " + name + "!"
-  } else {
+    else 
     print "Hello Ruby Programmer!"
-  }
+  
 end
 
 say_hello(Jon)
