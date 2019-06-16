@@ -1,6 +1,6 @@
 # Build your say_hello method here
 
-def say_hello(name)
+def say_hello(String name)
   
   if (name == "")
     
@@ -13,3 +13,6 @@ def say_hello(name)
   end
   
 end
+
+say_hello(Jon)
+
