@@ -5,8 +5,11 @@ def say_hello(name)
   if (name == "")
     
     print "Hello Ruby Programmer!"
-    else 
+    
+  else 
+    
     print "Hello " + name + "!"
+    
   end
   
 end
