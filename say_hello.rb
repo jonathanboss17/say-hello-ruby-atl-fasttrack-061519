@@ -4,14 +4,12 @@ name = Jon
 
 def say_hello(name)
   
-  # if (name == "")
+  if (name == "")
     
-  #   print "Hello Ruby Programmer!"
-  #   else 
-  #   print "Hello " + name + "!"
-  # end
-  
-  print name
+    print "Hello Ruby Programmer!"
+    else 
+    print "Hello " + name + "!"
+  end
   
 end
 
