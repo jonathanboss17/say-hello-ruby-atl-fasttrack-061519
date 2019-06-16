@@ -9,4 +9,4 @@ def say_hello(name)
   end
 end
 
-say_hello(Jon)
+say_hello(name)
