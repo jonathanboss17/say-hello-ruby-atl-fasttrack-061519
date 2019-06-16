@@ -1,6 +1,6 @@
 # Build your say_hello method here
 
-def say_hello(name)
+def say_hello(String name)
   if (name == "")
     
     print "Hello Ruby Programmer!"
@@ -9,4 +9,4 @@ def say_hello(name)
   end
 end
 
-say_hello(name)
+say_hello(Jon)
