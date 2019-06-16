@@ -11,4 +11,6 @@ def say_hello(name)
   
 end
 
-puts say_hello(Jon)
+name = Jon
+
+say_hello(name)
