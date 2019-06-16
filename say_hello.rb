@@ -1,5 +1,7 @@
 # Build your say_hello method here
 
+name = Jon
+
 def say_hello(name)
   
   if (name == "")
@@ -11,6 +13,6 @@ def say_hello(name)
   
 end
 
-name = Jon
 
-say_hello(name)
+
+puts say_hello(name)
