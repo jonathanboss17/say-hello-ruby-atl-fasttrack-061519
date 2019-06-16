@@ -2,7 +2,7 @@
 
 def say_hello(name)
   
-  if (name != "" || name == nil)
+  if (name != "" || name == null)
     
     print "Hello Ruby Programmer!"
     
